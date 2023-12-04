@@ -172,6 +172,12 @@
         },
         {
           "id": "linkedinLinkedAccount"
+        },
+        {
+          "id": "foursquareLinkedAccount"
+        },
+        {
+          "id": "googlePlusLinkedAccount"
         }
       ]
     },
